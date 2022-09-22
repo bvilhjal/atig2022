@@ -176,4 +176,3 @@ We want the set of individuals in our LD reference to have similar ancestry as t
 
 ##### Q15: Try to work out how to implement this filtering and plot again. (possibly difficult)
 
-##### Q16: Try to work out how to implement this filtering and plot again. (possibly difficult)
